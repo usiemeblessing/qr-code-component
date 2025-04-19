@@ -41,7 +41,7 @@ I began by analyzing the design and setting up the project structure. I then wro
 
 -   Semantic HTML5 markup
 -   CSS custom properties
--   Layout (using flex)
+-   Centering (using flex)
 
 ### What I learned
 
