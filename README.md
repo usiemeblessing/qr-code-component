@@ -2,9 +2,14 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+# Short description of my solution
+
+A simple and responsive QR code component featuring a centered card layout with a QR image, heading, and supporting text — built to match the Frontend Mentor design challenge.
+
 ## Table of contents
 
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+- [Short description of my solution](#short-description-of-my-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -22,6 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![QR Code Component](https://ibb.co/r2nN0VxB)
+![qr code component](screenshot.png)
 
 ### Links
 
