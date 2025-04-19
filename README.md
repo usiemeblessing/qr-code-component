@@ -26,12 +26,12 @@ A simple and responsive QR code component featuring a centered card layout with 
 
 ### Screenshot
 
-![QR Code Component Preview](./images/my-solution.png)
+![(./images/my-solution.png)]
 
 ### Links
 
--   Solution URL: (https://github.com/usiemeblessing/qr-code-component)
--   Live Site URL: (https://usiemeblessing-qr-code-component.netlify.app/)
+-   Solution URL: [(https://github.com/usiemeblessing/qr-code-component)]
+-   Live Site URL: [(https://usiemeblessing-qr-code-component.netlify.app/)]
 
 ## My process
 
