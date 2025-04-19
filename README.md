@@ -2,11 +2,14 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+# Short description of my solution
+
 A simple and responsive QR code component featuring a centered card layout with a QR image, heading, and supporting text — built to match the Frontend Mentor design challenge.
 
 ## Table of contents
 
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+- [Short description of my solution](#short-description-of-my-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -27,8 +30,8 @@ A simple and responsive QR code component featuring a centered card layout with 
 
 ### Links
 
--   Solution URL: (https://github.com/usiemeblessing/qr-code-component)
--   Live Site URL: (https://usiemeblessing-qr-code-component.netlify.app/)
+-   Solution URL: [Github](https://github.com/usiemeblessing/qr-code-component)
+-   Live Site URL: [Netlify](https://usiemeblessing-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -54,7 +57,7 @@ I began by analyzing the design and setting up the project structure. I then wro
 
 ### Useful resources
 
--   (https://www.youtube.com/watch?v=zutb5Clb_0Y&t=1123s) - This taught HTML in detail and greatly helped me gain valuable knowledge on HTML. I really liked the tutorial and will recommend it to anyone just starting off their web development journey.
+-   (https://www.youtube.com/watch?v=zutb5Clb_0Y&t=1123s) - This Youtube channel taught HTML in detail and greatly helped me gain valuable knowledge on HTML. I really liked the tutorial and will recommend it to anyone just starting off their web development journey.
 
 ## Author
 
