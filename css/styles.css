@@ -24,9 +24,19 @@ body {
 	justify-content: center;
 }
 
+a {
+	text-decoration: none;
+	color: var(--dark-blue);
+	font-weight: 700;
+}
+
+a:hover {
+	color: #2c7dfa;
+}
+
 .card {
 	background-color: var(--white);
-	width: 275px;
+	max-width: 275px;
 	margin-bottom: 100px;
 	border-radius: 20px;
 	padding: 15px;
